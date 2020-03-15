@@ -3,4 +3,4 @@ v = ord(alphabet)
 if v in range (65,91):
     print ('capital')
 else:
-    print ('small')
+    print ('Small')
